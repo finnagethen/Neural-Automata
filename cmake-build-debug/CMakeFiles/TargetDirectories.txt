@@ -1,0 +1,3 @@
+/home/finn/CLionProjects/NeuralAutomata/cmake-build-debug/CMakeFiles/NeuralAutomata.dir
+/home/finn/CLionProjects/NeuralAutomata/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/finn/CLionProjects/NeuralAutomata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
